@@ -1,0 +1,53 @@
+\contentsline {chapter}{\numberline {1}Quotes}{9}{chapter.1}%
+\contentsline {chapter}{\numberline {2}C++, Problems and Algorithm}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Evolution of C}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Array}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Array rotation}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Making subarray}{12}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Memory Allocation}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Memory Layout of C}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Pointers}{14}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Dynamic Memory Allocation}{14}{subsection.2.3.3}%
+\contentsline {subsubsection}{New and Delete operations}{14}{section*.4}%
+\contentsline {section}{\numberline {2.4}Illustration of C++ code}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Finding maximum element from an array of size n}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Counting selected element from an array}{15}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Divide function by string}{16}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}BitWise Operator}{16}{subsection.2.4.4}%
+\contentsline {subsubsection}{Some Interesting things about bitwise operator}{17}{section*.5}%
+\contentsline {subsection}{\numberline {2.4.5}Structure}{17}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}How to check efficiently that a number is palindrome or not}{19}{subsection.2.4.6}%
+\contentsline {section}{\numberline {2.5}STL Map}{20}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Map member function}{20}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}STL pair}{21}{section.2.6}%
+\contentsline {section}{\numberline {2.7}STL List}{23}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Member Functions of List}{23}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Discuss}{23}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}assign}{24}{subsection.2.7.3}%
+\contentsline {section}{\numberline {2.8}STL Stack}{24}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Power of 2}{26}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Binary Transform of \textbf {$2^n$}}{26}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Algorithm}{27}{subsection.2.9.2}%
+\contentsline {section}{\numberline {2.10}Linked Lists}{27}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Fortran}{29}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Python}{29}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Why we use Python}{29}{subsection.2.12.1}%
+\contentsline {chapter}{\numberline {3}Java}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}IntelliJ IDEA}{32}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Syntax Difference between C++ and Java}{32}{section.3.2}%
+\contentsline {chapter}{\numberline {4}JavaScript}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Why We Should Learn JS}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Variable}{35}{section.4.2}%
+\contentsline {section}{\numberline {4.3}String}{36}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Comments}{36}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Coursera Algorithm}{37}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Windows Command Prompt}{39}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Type Setting}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Formatting}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Font}{42}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Code Listing parameters}{42}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Shadow frame in code listing}{43}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Themes we can use in BEAMER class}{44}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Presentation themes without navigation bar}{44}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}Presentation theme with a tree-like navigation bar}{45}{subsection.7.5.2}%
+\contentsline {section}{\numberline {7.6}\href {https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols}{List of Greek letters and math symbols}}{46}{section.7.6}%

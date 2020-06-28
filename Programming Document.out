@@ -1,0 +1,51 @@
+\BOOKMARK [0][-]{chapter.1}{Quotes}{}% 1
+\BOOKMARK [0][-]{chapter.2}{C++, Problems and Algorithm}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Evolution of C}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Array}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{Array rotation}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Making subarray}{section.2.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Memory Allocation}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.3.1}{Memory Layout of C}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.2}{Pointers}{section.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.3.3}{Dynamic Memory Allocation}{section.2.3}% 10
+\BOOKMARK [1][-]{section.2.4}{Illustration of C++ code}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.4.1}{Finding maximum element from an array of size n}{section.2.4}% 12
+\BOOKMARK [2][-]{subsection.2.4.2}{Counting selected element from an array}{section.2.4}% 13
+\BOOKMARK [2][-]{subsection.2.4.3}{Divide function by string}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.4}{BitWise Operator}{section.2.4}% 15
+\BOOKMARK [2][-]{subsection.2.4.5}{Structure}{section.2.4}% 16
+\BOOKMARK [2][-]{subsection.2.4.6}{How to check efficiently that a number is palindrome or not}{section.2.4}% 17
+\BOOKMARK [1][-]{section.2.5}{STL Map}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.5.1}{Map member function}{section.2.5}% 19
+\BOOKMARK [1][-]{section.2.6}{STL pair}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.7}{STL List}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.7.1}{Member Functions of List}{section.2.7}% 22
+\BOOKMARK [2][-]{subsection.2.7.2}{Discuss}{section.2.7}% 23
+\BOOKMARK [2][-]{subsection.2.7.3}{assign}{section.2.7}% 24
+\BOOKMARK [1][-]{section.2.8}{STL Stack}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.9}{Power of 2}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.9.1}{Binary Transform of 2n}{section.2.9}% 27
+\BOOKMARK [2][-]{subsection.2.9.2}{Algorithm}{section.2.9}% 28
+\BOOKMARK [1][-]{section.2.10}{Linked Lists}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.11}{Fortran}{chapter.2}% 30
+\BOOKMARK [1][-]{section.2.12}{Python}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.12.1}{Why we use Python}{section.2.12}% 32
+\BOOKMARK [0][-]{chapter.3}{Java}{}% 33
+\BOOKMARK [1][-]{section.3.1}{IntelliJ IDEA}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.2}{Syntax Difference between C++ and Java}{chapter.3}% 35
+\BOOKMARK [0][-]{chapter.4}{JavaScript}{}% 36
+\BOOKMARK [1][-]{section.4.1}{Why We Should Learn JS}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.2}{Variable}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.3}{String}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.4}{Comments}{chapter.4}% 40
+\BOOKMARK [0][-]{chapter.5}{Coursera Algorithm}{}% 41
+\BOOKMARK [0][-]{chapter.6}{Windows Command Prompt}{}% 42
+\BOOKMARK [0][-]{chapter.7}{Type Setting}{}% 43
+\BOOKMARK [1][-]{section.7.1}{Formatting}{chapter.7}% 44
+\BOOKMARK [1][-]{section.7.2}{Font}{chapter.7}% 45
+\BOOKMARK [1][-]{section.7.3}{Code Listing parameters}{chapter.7}% 46
+\BOOKMARK [1][-]{section.7.4}{Shadow frame in code listing}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.5}{Themes we can use in BEAMER class}{chapter.7}% 48
+\BOOKMARK [2][-]{subsection.7.5.1}{Presentation themes without navigation bar}{section.7.5}% 49
+\BOOKMARK [2][-]{subsection.7.5.2}{Presentation theme with a tree-like navigation bar}{section.7.5}% 50
+\BOOKMARK [1][-]{section.7.6}{List of Greek letters and math symbols}{chapter.7}% 51
